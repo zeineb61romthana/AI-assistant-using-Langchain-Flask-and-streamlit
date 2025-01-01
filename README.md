@@ -1,1 +1,1 @@
-# AI-assistant-uing-Langchain-Flask-and-streamlit
+# AI-assistant-using-Langchain-Flask-and-streamlit
