@@ -2,7 +2,7 @@
 
 Easily extract insights from your documents with this **Retrieval-Augmented Generation (RAG) system**! Upload a PDF, ask questions, and get intelligent answers—all through a user-friendly interface.
 
----
+![Alt Text](DEMO_SHORT.gif)
 
 ## 🛠 Tech Stack
 
